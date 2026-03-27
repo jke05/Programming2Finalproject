@@ -6,4 +6,8 @@ public class Testclass{
         this.name = name;
         this.id = id;
     }
+
+    public void joeMethod(){
+        System.out.println("Joe Yabuki");
+    }
 }
